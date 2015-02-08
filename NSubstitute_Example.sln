@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstitute_Example", "NSubstitute_Example\NSubstitute_Example.csproj", "{32DE5B8F-0614-4BB1-8A01-6176EB0AA7FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstitute_ExampleTests", "NSubstitute_ExampleTests\NSubstitute_ExampleTests.csproj", "{2D872CDC-EE86-4716-9A01-409EF0FBDE75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DE5B8F-0614-4BB1-8A01-6176EB0AA7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DE5B8F-0614-4BB1-8A01-6176EB0AA7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DE5B8F-0614-4BB1-8A01-6176EB0AA7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DE5B8F-0614-4BB1-8A01-6176EB0AA7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D872CDC-EE86-4716-9A01-409EF0FBDE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D872CDC-EE86-4716-9A01-409EF0FBDE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D872CDC-EE86-4716-9A01-409EF0FBDE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D872CDC-EE86-4716-9A01-409EF0FBDE75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
